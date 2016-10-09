@@ -1,6 +1,11 @@
+*
 !*.c
 !*.C
 !*.cpp
 !*.CPP
 !*.py
+!*.js
 !*.txt
+!*.md
+!*.in
+!*.out
